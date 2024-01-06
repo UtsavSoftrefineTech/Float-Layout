@@ -56,6 +56,7 @@ For the optimal viewing experience, I highly recommend showcasing my website dem
 These settings will balance visibility and aesthetics perfectly, ensuring that the website demo is presented in its best form.
 
 #### Demo Website :-  [Utsav Technical Hub](https://float-layout.netlify.app/)
+####  Master Float Layout :- [Master The Float Layout Easy Ways](https://utsavdesai26.github.io/WT_LAB/LAB-5/layout.html)
 
 ## Conclusion
 The `float` property in CSS is a valuable tool for creating flexible and dynamic layouts. By understanding its usage, clearing techniques, and best practices, you can harness its power effectively. Remember to explore alternative layout methods for responsive designs and choose the approach that best suits your project's needs.
